@@ -1,4 +1,4 @@
-# EM-Gaussian-Mixture-HMM
+# EM GaussianMixture & HMM
 
 ### Python implementations of EM methods to mixture of Gaussian and Hidden Markov Model (HMM) with Gaussian hidden states.
 ### The convergence condition is log-likelihood.
